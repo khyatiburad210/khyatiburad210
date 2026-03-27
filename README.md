@@ -11,8 +11,9 @@
 ## 📌 Projects
 
 🔹 Multi-Disease Prediction System  
-- Built using Machine Learning algorithms like XGBoost, Random Forest  
-- Developed using Streamlit for user interaction  
+- Built using Machine Learning algorithms like SVM, Logistic Regression 
+- Developed using Streamlit for user interaction
+🔗 https://github.com/khyatiburad210/Multi-Disease-Prediction
 
 🔹 Groundwater Level Prediction  
 - Implemented ML models for prediction using environmental data  
