@@ -22,6 +22,11 @@
 🔹 AI Automation Project  
 - Built automation workflows using Omnidimension AI platform  
 - Designed task-based automation to improve efficiency
+
+## 🌐 Portfolio Website
+
+🔹 Personal Portfolio (Built using Gamma)  
+🔗 https://khyati-burad-w6a9bq6.gamma.site/
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=khyatiburad210&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
